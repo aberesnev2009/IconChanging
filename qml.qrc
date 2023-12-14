@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/pause_red.svg</file>
+        <file>Resources/play_green.svg</file>
+        <file>main.qml</file>
+    </qresource>
+</RCC>
